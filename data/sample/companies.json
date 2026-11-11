@@ -1,0 +1,87 @@
+[
+ {
+  "domain": "andesbeverages.example",
+  "name": "Andes Beverages",
+  "industry": "Consumer goods",
+  "employees": 12000,
+  "country": "CL",
+  "knownEmail": {
+   "address": "felipe.flores@andesbeverages.example",
+   "ownerName": "Felipe Flores"
+  }
+ },
+ {
+  "domain": "pacificafoods.example",
+  "name": "Pacifica Foods",
+  "industry": "Consumer goods",
+  "employees": 2500,
+  "country": "MX",
+  "knownEmail": {
+   "address": "amartinez@pacificafoods.example",
+   "ownerName": "Ana Martínez"
+  }
+ },
+ {
+  "domain": "solariahomecare.example",
+  "name": "Solaria Home Care",
+  "industry": "Consumer goods",
+  "employees": 120,
+  "country": "CO",
+  "knownEmail": {
+   "address": "t.vargas@solariahomecare.example",
+   "ownerName": "Tomás Vargas"
+  }
+ },
+ {
+  "domain": "caribesnacks.example",
+  "name": "Caribe Snacks",
+  "industry": "Consumer goods",
+  "employees": 120,
+  "country": "MX",
+  "knownEmail": {
+   "address": "diego.diaz@caribesnacks.example",
+   "ownerName": "Diego Díaz"
+  }
+ },
+ {
+  "domain": "australpersonalcare.example",
+  "name": "Austral Personal Care",
+  "industry": "Consumer goods",
+  "employees": 450,
+  "country": "AR",
+  "knownEmail": {
+   "address": "pauladiaz@australpersonalcare.example",
+   "ownerName": "Paula Díaz"
+  }
+ },
+ {
+  "domain": "selvacoffeeco.example",
+  "name": "Selva Coffee Co.",
+  "industry": "Consumer goods",
+  "employees": 2500,
+  "country": "CL",
+  "knownEmail": {
+   "address": "ldiaz@selvacoffeeco.example",
+   "ownerName": "Luis Díaz"
+  }
+ },
+ {
+  "domain": "nortedairy.example",
+  "name": "Norte Dairy",
+  "industry": "Consumer goods",
+  "employees": 450,
+  "country": "AR",
+  "knownEmail": null
+ },
+ {
+  "domain": "lagodistribution.example",
+  "name": "Lago Distribution",
+  "industry": "Consumer goods",
+  "employees": 120,
+  "country": "AR",
+  "knownEmail": {
+   "address": "andres_ramirez@lagodistribution.example",
+   "ownerName": "Andrés Ramírez"
+  }
+ }
+]

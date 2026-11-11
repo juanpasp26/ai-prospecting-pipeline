@@ -1,0 +1,386 @@
+[
+ {
+  "personId": "p00",
+  "fullName": "Felipe Flores",
+  "title": "Head of Trade Marketing",
+  "companyDomain": "andesbeverages.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/felipe-flores-00/"
+ },
+ {
+  "personId": "p01",
+  "fullName": "Lucía Martínez",
+  "title": "Country Manager",
+  "companyDomain": "andesbeverages.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/lucia-martinez-01/"
+ },
+ {
+  "personId": "p02",
+  "fullName": "Felipe Díaz",
+  "title": "Key Account Manager",
+  "companyDomain": "andesbeverages.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/felipe-diaz-02/"
+ },
+ {
+  "personId": "p03",
+  "fullName": "Paula Rojas",
+  "title": "Field Sales Manager",
+  "companyDomain": "andesbeverages.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/paula-rojas-03/"
+ },
+ {
+  "personId": "p04",
+  "fullName": "Jorge Torres",
+  "title": "HR Business Partner",
+  "companyDomain": "andesbeverages.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/jorge-torres-04/"
+ },
+ {
+  "personId": "p05",
+  "fullName": "Mateo García",
+  "title": "Sales Operations Analyst",
+  "companyDomain": "andesbeverages.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/mateo-garcia-05/"
+ },
+ {
+  "personId": "p10",
+  "fullName": "Ana Martínez",
+  "title": "Sales Director",
+  "companyDomain": "pacificafoods.example",
+  "country": "MX",
+  "linkedinUrl": "https://www.linkedin.example/in/ana-martinez-10/"
+ },
+ {
+  "personId": "p11",
+  "fullName": "María Rojas",
+  "title": "Sales Operations Analyst",
+  "companyDomain": "pacificafoods.example",
+  "country": "MX",
+  "linkedinUrl": "https://www.linkedin.example/in/maria-rojas-11/"
+ },
+ {
+  "personId": "p12",
+  "fullName": "Ana López",
+  "title": "Commercial Intern",
+  "companyDomain": "pacificafoods.example",
+  "country": "MX",
+  "linkedinUrl": "https://www.linkedin.example/in/ana-lopez-12/"
+ },
+ {
+  "personId": "p13",
+  "fullName": "Andrés Castro",
+  "title": "Field Sales Manager",
+  "companyDomain": "pacificafoods.example",
+  "country": "MX",
+  "linkedinUrl": "https://www.linkedin.example/in/andres-castro-13/"
+ },
+ {
+  "personId": "p14",
+  "fullName": "Andrés García",
+  "title": "Sales Director",
+  "companyDomain": "pacificafoods.example",
+  "country": "MX",
+  "linkedinUrl": "https://www.linkedin.example/in/andres-garcia-14/"
+ },
+ {
+  "personId": "p15",
+  "fullName": "Lucía Ramírez",
+  "title": "Key Account Manager",
+  "companyDomain": "pacificafoods.example",
+  "country": "MX",
+  "linkedinUrl": "https://www.linkedin.example/in/lucia-ramirez-15/"
+ },
+ {
+  "personId": "p20",
+  "fullName": "Tomás Vargas",
+  "title": "Sales Operations Analyst",
+  "companyDomain": "solariahomecare.example",
+  "country": "CO",
+  "linkedinUrl": "https://www.linkedin.example/in/tomas-vargas-20/"
+ },
+ {
+  "personId": "p21",
+  "fullName": "Jorge Martínez",
+  "title": "Field Sales Manager",
+  "companyDomain": "solariahomecare.example",
+  "country": "CO",
+  "linkedinUrl": "https://www.linkedin.example/in/jorge-martinez-21/"
+ },
+ {
+  "personId": "p22",
+  "fullName": "Luis Flores",
+  "title": "HR Business Partner",
+  "companyDomain": "solariahomecare.example",
+  "country": "CO",
+  "linkedinUrl": "https://www.linkedin.example/in/luis-flores-22/"
+ },
+ {
+  "personId": "p23",
+  "fullName": "Tomás Vargas",
+  "title": "Sales Director",
+  "companyDomain": "solariahomecare.example",
+  "country": "CO",
+  "linkedinUrl": "https://www.linkedin.example/in/tomas-vargas-23/"
+ },
+ {
+  "personId": "p24",
+  "fullName": "Martín Díaz",
+  "title": "Merchandising Lead",
+  "companyDomain": "solariahomecare.example",
+  "country": "CO",
+  "linkedinUrl": "https://www.linkedin.example/in/martin-diaz-24/"
+ },
+ {
+  "personId": "p30",
+  "fullName": "Diego Díaz",
+  "title": "Country Manager",
+  "companyDomain": "caribesnacks.example",
+  "country": "MX",
+  "linkedinUrl": "https://www.linkedin.example/in/diego-diaz-30/"
+ },
+ {
+  "personId": "p31",
+  "fullName": "Paula Rodríguez",
+  "title": "HR Business Partner",
+  "companyDomain": "caribesnacks.example",
+  "country": "MX",
+  "linkedinUrl": "https://www.linkedin.example/in/paula-rodriguez-31/"
+ },
+ {
+  "personId": "p32",
+  "fullName": "Paula Martínez",
+  "title": "HR Business Partner",
+  "companyDomain": "caribesnacks.example",
+  "country": "MX",
+  "linkedinUrl": "https://www.linkedin.example/in/paula-martinez-32/"
+ },
+ {
+  "personId": "p33",
+  "fullName": "María Torres",
+  "title": "Commercial Intern",
+  "companyDomain": "caribesnacks.example",
+  "country": "MX",
+  "linkedinUrl": "https://www.linkedin.example/in/maria-torres-33/"
+ },
+ {
+  "personId": "p40",
+  "fullName": "Paula Díaz",
+  "title": "Country Manager",
+  "companyDomain": "australpersonalcare.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/paula-diaz-40/"
+ },
+ {
+  "personId": "p41",
+  "fullName": "Diego Ramírez",
+  "title": "Field Sales Manager",
+  "companyDomain": "australpersonalcare.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/diego-ramirez-41/"
+ },
+ {
+  "personId": "p42",
+  "fullName": "Tomás Pérez",
+  "title": "Route-to-Market Lead",
+  "companyDomain": "australpersonalcare.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/tomas-perez-42/"
+ },
+ {
+  "personId": "p43",
+  "fullName": "Felipe Flores",
+  "title": "Merchandising Lead",
+  "companyDomain": "australpersonalcare.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/felipe-flores-43/"
+ },
+ {
+  "personId": "p44",
+  "fullName": "Paula Díaz",
+  "title": "Sales Operations Analyst",
+  "companyDomain": "australpersonalcare.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/paula-diaz-44/"
+ },
+ {
+  "personId": "p45",
+  "fullName": "Camila Rodríguez",
+  "title": "HR Business Partner",
+  "companyDomain": "australpersonalcare.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/camila-rodriguez-45/"
+ },
+ {
+  "personId": "p50",
+  "fullName": "Luis Díaz",
+  "title": "Commercial Intern",
+  "companyDomain": "selvacoffeeco.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/luis-diaz-50/"
+ },
+ {
+  "personId": "p51",
+  "fullName": "María Morales",
+  "title": "Head of Trade Marketing",
+  "companyDomain": "selvacoffeeco.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/maria-morales-51/"
+ },
+ {
+  "personId": "p52",
+  "fullName": "Tomás Flores",
+  "title": "Key Account Manager",
+  "companyDomain": "selvacoffeeco.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/tomas-flores-52/"
+ },
+ {
+  "personId": "p53",
+  "fullName": "Valentina López",
+  "title": "HR Business Partner",
+  "companyDomain": "selvacoffeeco.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/valentina-lopez-53/"
+ },
+ {
+  "personId": "p54",
+  "fullName": "Diego López",
+  "title": "Country Manager",
+  "companyDomain": "selvacoffeeco.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/diego-lopez-54/"
+ },
+ {
+  "personId": "p55",
+  "fullName": "Paula Pérez",
+  "title": "Finance Manager",
+  "companyDomain": "selvacoffeeco.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/paula-perez-55/"
+ },
+ {
+  "personId": "p56",
+  "fullName": "Valentina Rodríguez",
+  "title": "Commercial Intern",
+  "companyDomain": "selvacoffeeco.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/valentina-rodriguez-56/"
+ },
+ {
+  "personId": "p57",
+  "fullName": "Diego García",
+  "title": "Finance Manager",
+  "companyDomain": "selvacoffeeco.example",
+  "country": "CL",
+  "linkedinUrl": "https://www.linkedin.example/in/diego-garcia-57/"
+ },
+ {
+  "personId": "p60",
+  "fullName": "Jorge Ramírez",
+  "title": "Sales Operations Analyst",
+  "companyDomain": "nortedairy.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/jorge-ramirez-60/"
+ },
+ {
+  "personId": "p61",
+  "fullName": "María García",
+  "title": "HR Business Partner",
+  "companyDomain": "nortedairy.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/maria-garcia-61/"
+ },
+ {
+  "personId": "p62",
+  "fullName": "Tomás Pérez",
+  "title": "Field Sales Manager",
+  "companyDomain": "nortedairy.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/tomas-perez-62/"
+ },
+ {
+  "personId": "p63",
+  "fullName": "Diego García",
+  "title": "Key Account Manager",
+  "companyDomain": "nortedairy.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/diego-garcia-63/"
+ },
+ {
+  "personId": "p64",
+  "fullName": "Martín Ramírez",
+  "title": "Merchandising Lead",
+  "companyDomain": "nortedairy.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/martin-ramirez-64/"
+ },
+ {
+  "personId": "p65",
+  "fullName": "María López",
+  "title": "Country Manager",
+  "companyDomain": "nortedairy.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/maria-lopez-65/"
+ },
+ {
+  "personId": "p66",
+  "fullName": "Camila Gómez",
+  "title": "Route-to-Market Lead",
+  "companyDomain": "nortedairy.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/camila-gomez-66/"
+ },
+ {
+  "personId": "p67",
+  "fullName": "Valentina Flores",
+  "title": "Route-to-Market Lead",
+  "companyDomain": "nortedairy.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/valentina-flores-67/"
+ },
+ {
+  "personId": "p70",
+  "fullName": "Andrés Ramírez",
+  "title": "Country Manager",
+  "companyDomain": "lagodistribution.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/andres-ramirez-70/"
+ },
+ {
+  "personId": "p71",
+  "fullName": "Mateo Martínez",
+  "title": "Field Sales Manager",
+  "companyDomain": "lagodistribution.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/mateo-martinez-71/"
+ },
+ {
+  "personId": "p72",
+  "fullName": "Camila Pérez",
+  "title": "HR Business Partner",
+  "companyDomain": "lagodistribution.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/camila-perez-72/"
+ },
+ {
+  "personId": "p73",
+  "fullName": "Jorge López",
+  "title": "HR Business Partner",
+  "companyDomain": "lagodistribution.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/jorge-lopez-73/"
+ },
+ {
+  "personId": "p74",
+  "fullName": "Diego Rodríguez",
+  "title": "Field Sales Manager",
+  "companyDomain": "lagodistribution.example",
+  "country": "AR",
+  "linkedinUrl": "https://www.linkedin.example/in/diego-rodriguez-74/"
+ }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "ai-prospecting-pipeline",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "tsx src/demo.ts",
+    "sample": "tsx src/generateSample.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "dev": "trigger dev"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.0.0",
+    "@trigger.dev/sdk": "^4.7.6",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "trigger.dev": "^4.7.6",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.3"
+  }
+}
